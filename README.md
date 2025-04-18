@@ -8,6 +8,9 @@
   - [Threat Hunting Exercises](https://github.com/)
   - [Python-Based Automated Vulnerability Scanner](https://github.com/)
 
+<h2>  Certifications</h2>
+- Google IT Support Professional <br>
+- CompTIA ITF+(April 2025), A+(June 2025), Network+ (August 2025)
 
 <h2> 🤳 Connect with me:</h2>
 <t>I’m currently pursuing my MSc in Cyber Security at the University of Sunderland. I’m passionate about joining a live SOC team (first part‑time alongside my studies, then full‑time on graduation) to turn these projects into real impact.</t> <p><br></p>
