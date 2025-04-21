@@ -1,4 +1,4 @@
-<h1>Hi, I'm Opeyemi! <br/><a href="https://github.com/ishaq-tech">Programmer</a>, <a href="https://www.linkedin.com/in/ishaqsotubo/">Entry-level Cybersecurity Practitioner</a>
+<h1>Hi, I'm Opeyemi! <br/><a href="https://github.com/ishaq-tech">Programmer</a>, <a href="https://www.linkedin.com/in/ishaqsotubo/"> Cybersecurity Practitioner</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
