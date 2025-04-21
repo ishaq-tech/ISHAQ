@@ -13,7 +13,7 @@
 - CompTIA ITF+(April 2025), A+(June 2025), Network+ (August 2025)
 
 <h2> 🤳 Connect with me:</h2>
-<t>I’m currently pursuing my MSc in Cyber Security at the University of Sunderland. I’m passionate about joining a live SOC team (first part‑time alongside my studies, then full‑time on graduation) to turn these projects into real impact.</t> <p><br></p>
+<t>I’m currently pursuing my MSc in Cyber Security at the University of Sunderland. I’m passionate about joining a live SOC team to turn these projects into real impact.</t> <p><br></p>
 
 [<img align="left" alt="IshaqSotubo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IshaqSotubo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
